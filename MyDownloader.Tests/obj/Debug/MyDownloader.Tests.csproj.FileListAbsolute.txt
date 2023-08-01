@@ -1,0 +1,2 @@
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.csproj.AssemblyReference.cache
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Tests\obj\Debug\MyDownloader.Tests.csproj.CoreCompileInputs.cache

@@ -1,0 +1,54 @@
+C:\Users\xxx\Desktop\MyDownloader.Spider\bin\Debug\MyDownloader.Spider.dll
+C:\Users\xxx\Desktop\MyDownloader.Spider\bin\Debug\MyDownloader.Spider.pdb
+C:\Users\xxx\Desktop\MyDownloader.Spider\bin\Debug\MyDownloader.Core.dll
+C:\Users\xxx\Desktop\MyDownloader.Spider\bin\Debug\MyDownloader.Extension.dll
+C:\Users\xxx\Desktop\MyDownloader.Spider\bin\Debug\TabStrip.dll
+C:\Users\xxx\Desktop\MyDownloader.Spider\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\xxx\Desktop\MyDownloader.Spider\bin\Debug\MyDownloader.Core.pdb
+C:\Users\xxx\Desktop\MyDownloader.Spider\bin\Debug\MyDownloader.Core.dll.config
+C:\Users\xxx\Desktop\MyDownloader.Spider\bin\Debug\MyDownloader.Extension.pdb
+C:\Users\xxx\Desktop\MyDownloader.Spider\bin\Debug\MyDownloader.Extension.dll.config
+C:\Users\xxx\Desktop\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.csprojResolveAssemblyReference.cache
+C:\Users\xxx\Desktop\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.UI.StartAutoDownloadsForm.resources
+C:\Users\xxx\Desktop\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.UI.WebSpider.resources
+C:\Users\xxx\Desktop\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.csproj.GenerateResource.cache
+C:\Users\xxx\Desktop\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.csproj.CoreCompileInputs.cache
+C:\Users\xxx\Desktop\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.csproj.CopyComplete
+C:\Users\xxx\Desktop\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.dll
+C:\Users\xxx\Desktop\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.pdb
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Spider\bin\Debug\MyDownloader.Spider.dll
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Spider\bin\Debug\MyDownloader.Spider.pdb
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Spider\bin\Debug\MyDownloader.Core.dll
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Spider\bin\Debug\MyDownloader.Extension.dll
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Spider\bin\Debug\TabStrip.dll
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Spider\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Spider\bin\Debug\MyDownloader.Core.pdb
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Spider\bin\Debug\MyDownloader.Core.dll.config
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Spider\bin\Debug\MyDownloader.Extension.pdb
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Spider\bin\Debug\MyDownloader.Extension.dll.config
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.csprojResolveAssemblyReference.cache
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.UI.StartAutoDownloadsForm.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.UI.WebSpider.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.csproj.GenerateResource.cache
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.csproj.CoreCompileInputs.cache
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.csproj.CopyComplete
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.dll
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.pdb
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Spider\bin\Debug\MyDownloader.Spider.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Spider\bin\Debug\MyDownloader.Spider.pdb
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Spider\bin\Debug\MyDownloader.Core.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Spider\bin\Debug\MyDownloader.Extension.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Spider\bin\Debug\TabStrip.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Spider\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Spider\bin\Debug\MyDownloader.Core.pdb
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Spider\bin\Debug\MyDownloader.Core.dll.config
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Spider\bin\Debug\MyDownloader.Extension.pdb
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Spider\bin\Debug\MyDownloader.Extension.dll.config
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.csproj.AssemblyReference.cache
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.UI.StartAutoDownloadsForm.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.UI.WebSpider.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.csproj.GenerateResource.cache
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.csproj.CoreCompileInputs.cache
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.csproj.CopyComplete
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Spider\obj\Debug\MyDownloader.Spider.pdb

@@ -1,0 +1,81 @@
+C:\Users\xxx\Desktop\MyDownloader.Extension\bin\Debug\MyDownloader.Extension.dll.config
+C:\Users\xxx\Desktop\MyDownloader.Extension\bin\Debug\MyDownloader.Extension.dll
+C:\Users\xxx\Desktop\MyDownloader.Extension\bin\Debug\MyDownloader.Extension.pdb
+C:\Users\xxx\Desktop\MyDownloader.Extension\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\xxx\Desktop\MyDownloader.Extension\bin\Debug\MyDownloader.Core.dll
+C:\Users\xxx\Desktop\MyDownloader.Extension\bin\Debug\MyDownloader.Core.pdb
+C:\Users\xxx\Desktop\MyDownloader.Extension\bin\Debug\MyDownloader.Core.dll.config
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.csprojResolveAssemblyReference.cache
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.AntiVirus.UI.AVOptions.resources
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Notifications.UI.SoundChooser.resources
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Notifications.UI.SoundsOptions.resources
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Notifications.UI.XPBalloonOptions.resources
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.AutoDownloads.UI.Jobs.resources
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.AutoDownloads.UI.ScheduledDownloadEnabler.resources
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.AutoDownloads.UI.TimeGrid.resources
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Protocols.UI.Proxy.resources
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.SpeedLimit.UI.LimitCfg.resources
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.SpeedLimit.UI.SetSpeedLimitDialog.resources
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Video.UI.VideoFormatCtrl.resources
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Video.UI.NewVideoDownload.resources
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Video.UI.SupportedVideoSitesForm.resources
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.WindowsIntegration.WindowsIntegrationUI.resources
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.csproj.GenerateResource.cache
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.csproj.CoreCompileInputs.cache
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.csproj.CopyComplete
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.dll
+C:\Users\xxx\Desktop\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.pdb
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\bin\Debug\MyDownloader.Extension.dll.config
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\bin\Debug\MyDownloader.Extension.dll
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\bin\Debug\MyDownloader.Extension.pdb
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\bin\Debug\MyDownloader.Core.dll
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\bin\Debug\MyDownloader.Core.pdb
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\bin\Debug\MyDownloader.Core.dll.config
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.csprojResolveAssemblyReference.cache
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.AntiVirus.UI.AVOptions.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Notifications.UI.SoundChooser.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Notifications.UI.SoundsOptions.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Notifications.UI.XPBalloonOptions.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.AutoDownloads.UI.Jobs.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.AutoDownloads.UI.ScheduledDownloadEnabler.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.AutoDownloads.UI.TimeGrid.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Protocols.UI.Proxy.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.SpeedLimit.UI.LimitCfg.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.SpeedLimit.UI.SetSpeedLimitDialog.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Video.UI.VideoFormatCtrl.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Video.UI.NewVideoDownload.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Video.UI.SupportedVideoSitesForm.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.WindowsIntegration.WindowsIntegrationUI.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.csproj.GenerateResource.cache
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.csproj.CoreCompileInputs.cache
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.csproj.CopyComplete
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.dll
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.pdb
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\bin\Debug\MyDownloader.Extension.dll.config
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\bin\Debug\MyDownloader.Extension.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\bin\Debug\MyDownloader.Extension.pdb
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\bin\Debug\MyDownloader.Core.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\bin\Debug\MyDownloader.Core.pdb
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\bin\Debug\MyDownloader.Core.dll.config
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.csproj.AssemblyReference.cache
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.AntiVirus.UI.AVOptions.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Notifications.UI.SoundChooser.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Notifications.UI.SoundsOptions.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Notifications.UI.XPBalloonOptions.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.AutoDownloads.UI.Jobs.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.AutoDownloads.UI.ScheduledDownloadEnabler.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.AutoDownloads.UI.TimeGrid.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Protocols.UI.Proxy.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.SpeedLimit.UI.LimitCfg.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.SpeedLimit.UI.SetSpeedLimitDialog.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Video.UI.VideoFormatCtrl.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Video.UI.NewVideoDownload.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.Video.UI.SupportedVideoSitesForm.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.WindowsIntegration.WindowsIntegrationUI.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.csproj.GenerateResource.cache
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.csproj.CoreCompileInputs.cache
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.csproj.CopyComplete
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Extension\obj\Debug\MyDownloader.Extension.pdb

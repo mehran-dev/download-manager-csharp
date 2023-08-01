@@ -1,0 +1,84 @@
+C:\Users\xxx\Desktop\MyDownloader.App\obj\Debug\MyDownloader.App.csprojResolveAssemblyReference.cache
+C:\Users\xxx\Desktop\MyDownloader.App\obj\Debug\MyDownloader.App.UI.AboutForm.resources
+C:\Users\xxx\Desktop\MyDownloader.App\obj\Debug\MyDownloader.App.UI.MainForm.resources
+C:\Users\xxx\Desktop\MyDownloader.App\obj\Debug\MyDownloader.App.UI.OptionsForm.resources
+C:\Users\xxx\Desktop\MyDownloader.App\obj\Debug\MyDownloader.App.Properties.Resources.resources
+C:\Users\xxx\Desktop\MyDownloader.App\obj\Debug\MyDownloader.App.UI.CreateBatchDownloadForm.resources
+C:\Users\xxx\Desktop\MyDownloader.App\obj\Debug\MyDownloader.App.UI.DownloadList.resources
+C:\Users\xxx\Desktop\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFileForm.resources
+C:\Users\xxx\Desktop\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFilePreviewForm.resources
+C:\Users\xxx\Desktop\MyDownloader.App\obj\Debug\MyDownloader.App.UI.NewDownloadForm.resources
+C:\Users\xxx\Desktop\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.GenerateResource.cache
+C:\Users\xxx\Desktop\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.CoreCompileInputs.cache
+C:\Users\xxx\Desktop\MyDownloader.App\bin\Debug\MyDownloader.App.exe.config
+C:\Users\xxx\Desktop\MyDownloader.App\bin\Debug\MyDownloader.App.exe
+C:\Users\xxx\Desktop\MyDownloader.App\bin\Debug\MyDownloader.App.pdb
+C:\Users\xxx\Desktop\MyDownloader.App\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\xxx\Desktop\MyDownloader.App\bin\Debug\MyDownloader.Core.dll
+C:\Users\xxx\Desktop\MyDownloader.App\bin\Debug\MyDownloader.Extension.dll
+C:\Users\xxx\Desktop\MyDownloader.App\bin\Debug\MyDownloader.Spider.dll
+C:\Users\xxx\Desktop\MyDownloader.App\bin\Debug\TabStrip.dll
+C:\Users\xxx\Desktop\MyDownloader.App\bin\Debug\MyDownloader.Core.pdb
+C:\Users\xxx\Desktop\MyDownloader.App\bin\Debug\MyDownloader.Core.dll.config
+C:\Users\xxx\Desktop\MyDownloader.App\bin\Debug\MyDownloader.Extension.pdb
+C:\Users\xxx\Desktop\MyDownloader.App\bin\Debug\MyDownloader.Extension.dll.config
+C:\Users\xxx\Desktop\MyDownloader.App\bin\Debug\MyDownloader.Spider.pdb
+C:\Users\xxx\Desktop\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.CopyComplete
+C:\Users\xxx\Desktop\MyDownloader.App\obj\Debug\MyDownloader.App.exe
+C:\Users\xxx\Desktop\MyDownloader.App\obj\Debug\MyDownloader.App.pdb
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.App.exe.config
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.App.exe
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.App.pdb
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.Core.dll
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.Extension.dll
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.Spider.dll
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\bin\Debug\TabStrip.dll
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.Core.pdb
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.Core.dll.config
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.Extension.pdb
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.Extension.dll.config
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.Spider.pdb
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.csprojResolveAssemblyReference.cache
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.UI.AboutForm.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.UI.MainForm.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.UI.OptionsForm.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.Properties.Resources.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.UI.CreateBatchDownloadForm.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.UI.DownloadList.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFileForm.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFilePreviewForm.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.UI.NewDownloadForm.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.GenerateResource.cache
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.CoreCompileInputs.cache
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.CopyComplete
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.exe
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.pdb
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.App.exe.config
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.App.exe
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.App.pdb
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.Core.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.Extension.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.Spider.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\bin\Debug\TabStrip.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.Core.pdb
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.Core.dll.config
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.Extension.pdb
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.Extension.dll.config
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\bin\Debug\MyDownloader.Spider.pdb
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.AssemblyReference.cache
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.UI.AboutForm.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.UI.MainForm.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.UI.OptionsForm.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.Properties.Resources.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.UI.CreateBatchDownloadForm.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.UI.DownloadList.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFileForm.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.UI.ImportFromFilePreviewForm.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.UI.NewDownloadForm.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.GenerateResource.cache
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.CoreCompileInputs.cache
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.csproj.CopyComplete
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.exe
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.App\obj\Debug\MyDownloader.App.pdb

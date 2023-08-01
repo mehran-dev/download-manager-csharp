@@ -1,0 +1,12 @@
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\bin\Release\MyDownloader.Core.dll.config
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\bin\Release\MyDownloader.Core.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\bin\Release\MyDownloader.Core.pdb
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\obj\Release\MyDownloader.Core.csproj.AssemblyReference.cache
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\obj\Release\MyDownloader.Core.UI.Connection.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\obj\Release\MyDownloader.Core.UI.DownloadFolder.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\obj\Release\MyDownloader.App.UI.Location.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\obj\Release\MyDownloader.Core.UI.WaitControl.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\obj\Release\MyDownloader.Core.csproj.GenerateResource.cache
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\obj\Release\MyDownloader.Core.csproj.CoreCompileInputs.cache
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\obj\Release\MyDownloader.Core.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\obj\Release\MyDownloader.Core.pdb

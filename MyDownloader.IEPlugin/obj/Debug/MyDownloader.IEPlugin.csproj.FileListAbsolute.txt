@@ -1,0 +1,14 @@
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.IEPlugin\bin\Debug\unregister.reg
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.IEPlugin\bin\Debug\register.reg
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.IEPlugin\bin\Debug\unregister.bat
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.IEPlugin\bin\Debug\register.bat
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.IEPlugin\bin\Debug\MyDownloader.IEPlugin.pdb
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.IEPlugin\bin\Debug\Interop.SHDocVw.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.IEMD.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.Properties.Resources.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.csproj.GenerateResource.cache
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.csproj.CoreCompileInputs.cache
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.csproj.CopyComplete
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.IEPlugin\obj\Debug\MyDownloader.IEPlugin.pdb

@@ -1,0 +1,36 @@
+C:\Users\xxx\Desktop\MyDownloader.Core\bin\Debug\MyDownloader.Core.dll.config
+C:\Users\xxx\Desktop\MyDownloader.Core\bin\Debug\MyDownloader.Core.dll
+C:\Users\xxx\Desktop\MyDownloader.Core\bin\Debug\MyDownloader.Core.pdb
+C:\Users\xxx\Desktop\MyDownloader.Core\obj\Debug\MyDownloader.Core.csprojResolveAssemblyReference.cache
+C:\Users\xxx\Desktop\MyDownloader.Core\obj\Debug\MyDownloader.Core.UI.Connection.resources
+C:\Users\xxx\Desktop\MyDownloader.Core\obj\Debug\MyDownloader.Core.UI.DownloadFolder.resources
+C:\Users\xxx\Desktop\MyDownloader.Core\obj\Debug\MyDownloader.App.UI.Location.resources
+C:\Users\xxx\Desktop\MyDownloader.Core\obj\Debug\MyDownloader.Core.UI.WaitControl.resources
+C:\Users\xxx\Desktop\MyDownloader.Core\obj\Debug\MyDownloader.Core.csproj.GenerateResource.cache
+C:\Users\xxx\Desktop\MyDownloader.Core\obj\Debug\MyDownloader.Core.csproj.CoreCompileInputs.cache
+C:\Users\xxx\Desktop\MyDownloader.Core\obj\Debug\MyDownloader.Core.dll
+C:\Users\xxx\Desktop\MyDownloader.Core\obj\Debug\MyDownloader.Core.pdb
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Core\bin\Debug\MyDownloader.Core.dll.config
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Core\bin\Debug\MyDownloader.Core.dll
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Core\bin\Debug\MyDownloader.Core.pdb
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Core\obj\Debug\MyDownloader.Core.csprojResolveAssemblyReference.cache
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Core\obj\Debug\MyDownloader.Core.UI.Connection.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Core\obj\Debug\MyDownloader.Core.UI.DownloadFolder.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Core\obj\Debug\MyDownloader.App.UI.Location.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Core\obj\Debug\MyDownloader.Core.UI.WaitControl.resources
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Core\obj\Debug\MyDownloader.Core.csproj.GenerateResource.cache
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Core\obj\Debug\MyDownloader.Core.csproj.CoreCompileInputs.cache
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Core\obj\Debug\MyDownloader.Core.dll
+D:\C#\prefect sourcess\5Layer Programming\MyDownloader.Core\obj\Debug\MyDownloader.Core.pdb
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\bin\Debug\MyDownloader.Core.dll.config
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\bin\Debug\MyDownloader.Core.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\bin\Debug\MyDownloader.Core.pdb
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\obj\Debug\MyDownloader.Core.csproj.AssemblyReference.cache
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\obj\Debug\MyDownloader.Core.UI.Connection.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\obj\Debug\MyDownloader.Core.UI.DownloadFolder.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\obj\Debug\MyDownloader.App.UI.Location.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\obj\Debug\MyDownloader.Core.UI.WaitControl.resources
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\obj\Debug\MyDownloader.Core.csproj.GenerateResource.cache
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\obj\Debug\MyDownloader.Core.csproj.CoreCompileInputs.cache
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\obj\Debug\MyDownloader.Core.dll
+E:\__Learning__Journey__\repositories\C# repositories\sources\__PRO__\5Layer Programming\MyDownloader.Core\obj\Debug\MyDownloader.Core.pdb

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<ArrayOfDownloadItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DownloadItem lf="\Mi.ss.Ba.la.2019.720p.b.lu.ry.Film2Movie_WS.mkv" segCnt="1" dt="2019-06-08T10:11:05.9283971+03:30">
+    <rl>
+      <URL>http://dl11.f2m.co/film/Mi.ss.Ba.la.2019.720p.b.lu.ry.Film2Movie_WS.mkv</URL>
+      <Authenticate>false</Authenticate>
+      <Login />
+      <Password />
+      <ProtocolProviderType>MyDownloader.Extension.Protocols.HttpProtocolProvider, MyDownloader.Extension, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</ProtocolProviderType>
+    </rl>
+    <mirrors />
+    <remoteInfo>
+      <MimeType>application/octet-stream</MimeType>
+      <AcceptRanges>false</AcceptRanges>
+      <FileSize>992275139</FileSize>
+      <LastModified>2019-04-20T17:35:15+03:30</LastModified>
+    </remoteInfo>
+    <Segments />
+    <extendedProperties />
+  </DownloadItem>
+  <DownloadItem lf="C:\Users\xxx\Desktop\Mi.ss.Ba.la.2019.720p.b.lu.ry.Film2Movie_WS.mkv" segCnt="1" dt="2019-06-08T10:12:32.3989601+03:30">
+    <rl>
+      <URL>http://dl11.f2m.co/film/Mi.ss.Ba.la.2019.720p.b.lu.ry.Film2Movie_WS.mkv</URL>
+      <Authenticate>false</Authenticate>
+      <Login />
+      <Password />
+      <ProtocolProviderType>MyDownloader.Extension.Protocols.HttpProtocolProvider, MyDownloader.Extension, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</ProtocolProviderType>
+    </rl>
+    <mirrors />
+    <Segments />
+    <extendedProperties />
+  </DownloadItem>
+</ArrayOfDownloadItem>
